@@ -1,0 +1,23 @@
+<div class="dashboard">
+
+  <h1>Live Stream</h1>
+  <div class="messages">
+    <div class="message" *ngFor="let msg of messages">
+      <strong>{{ msg.ClientEndpoint }}</strong>
+      <p>{{ msg.Content }}</p>
+      <small>{{ msg.ReceivedAt | date:'mediumTime' }}</small>
+    </div>
+  </div>
+  <br><br>
+
+  <h1>Process Done</h1>
+  <div class="messages">
+    <div class="message" *ngFor="let msg of processedMessage">
+      <strong>{{ msg.ClientEndpoint }}</strong>
+      <p>{{ msg.Content }}</p>
+      <small>{{ msg.ReceivedAt | date:'mediumTime' }}</small>
+      <p>{{msg.Priority}} || Status : Completed  </p>
+    </div>
+  </div>
+
+</div>

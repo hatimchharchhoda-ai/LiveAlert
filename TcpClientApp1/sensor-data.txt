@@ -1,0 +1,24 @@
+CAM12 | High | Overheat dectected
+CAM42 | Low | Battery Low
+CAM1 | Critical |  Network Failure
+CAM5 | High | Error
+CAM654 | High | High Volt
+CAM3 | Low | Check
+CAM9 | High | Nothing
+CAM25 | Critical | Overheat
+CAM12 | High | Overheat dectected
+CAM42 | Low | Battery Low
+CAM1 | Critical |  Network Failure
+CAM5 | High | Error
+CAM654 | High | High Volt
+CAM3 | Low | Check
+CAM9 | High | Nothing
+CAM25 | Critical | Overheat
+CAM12 | High | Overheat dectected
+CAM42 | Low | Battery Low
+CAM1 | Critical |  Network Failure
+CAM5 | High | Error
+CAM654 | High | High Volt
+CAM3 | Low | Check
+CAM9 | High | Nothing
+CAM25 | Critical | Overheat

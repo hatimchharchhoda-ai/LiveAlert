@@ -1,0 +1,17 @@
+.dashboard {
+  padding: 20px;
+  font-family: system-ui, sans-serif;
+}
+
+.messages {
+  height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  padding: 10px;
+  background: #fff;
+}
+
+.message {
+  border-bottom: 1px solid #eee;
+  padding: 8px 0;
+}
